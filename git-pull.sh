@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 
-cd debexpo
+cd ~/debexpo
 git pull --rebase
 bash provision.sh
